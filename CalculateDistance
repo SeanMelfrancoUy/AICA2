@@ -1,0 +1,1 @@
+print(calculate_distances(example_graph, 'A'))
