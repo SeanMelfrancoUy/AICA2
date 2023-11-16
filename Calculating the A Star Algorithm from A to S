@@ -1,0 +1,2 @@
+graph1 = Graph(Puzzle_list)
+graph1.a_star_algorithm('A', 'S')
